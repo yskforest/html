@@ -1,4 +1,4 @@
-# web
+# html
 
 ```powershell
 .\wget.exe --convert-links --page-requisites --adjust-extension --no-parent -P html_dir $URL
