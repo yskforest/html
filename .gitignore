@@ -2,3 +2,8 @@ venv
 
 /tmp
 /out
+
+/build
+/dist
+venv_for_exe
+*.spec
