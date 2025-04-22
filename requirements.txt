@@ -1,0 +1,10 @@
+requests
+bs4
+tqdm
+pyinstaller
+chardet
+
+# pywebcopy
+# lxml_html_clean
+# selenium
+# jupyterlab
